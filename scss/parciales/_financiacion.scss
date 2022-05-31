@@ -1,0 +1,75 @@
+.nav_financiacion{
+    position: sticky;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 4rem;
+    border: 1px solid black;
+    background-color: #fdba2d;
+    margin: 0rem;
+    background-image: url(../imagenes/Sprinkle.svg);
+    z-index: 1000;
+    
+
+}
+
+
+.ul_financiacion{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 20px;
+    padding: 0rem;
+    border: 0px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+
+}
+
+.il_financiacion{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 110px;
+    height: 25px;
+    text-align: center;
+    background-color: #fdba2d;
+    text-decoration: none;
+
+
+    
+
+
+}
+
+
+.header_financiacion{
+    background-color: #fff;
+}
+
+
+.footer_financiacion{
+    background-color: #fdba2d;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-left: 1rem;
+    width: 50%;
+    height: 90px;
+
+}
+
+.section_fi{
+    padding: 5rem;
+    position: static;
+    z-index: 1;
+  
+}
